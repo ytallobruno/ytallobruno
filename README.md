@@ -3,16 +3,15 @@
 
 <div>
  <a href="https://github.com/ytallobruno">
-   <!--[ytallo github stats]-->  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&theme=default"/>
-   <!--[ytallo github langs]-->  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact"/>
+   <!--[ytallo github stats]-->  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&theme=default"/>
+   <!--[ytallo github langs]-->  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact"/>
 </div>
  
 <div>
   <a href="https://www.linkedin.com/in/ytallobruno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   
-  
- ![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
