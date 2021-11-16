@@ -1,13 +1,13 @@
 ### E ai, tudo certinho? Eu sou o Ytallo 👋
 
 
-<div>
+<div align="center">
  <a href="https://github.com/ytallobruno">
    <!--[ytallo github stats]-->  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&theme=default"/>
    <!--[ytallo github langs]-->  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact"/>
 </div>
  
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/ytallobruno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
  
   
