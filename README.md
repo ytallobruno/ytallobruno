@@ -1,7 +1,7 @@
 ### E ai, tudo certinho? Eu sou o Ytallo 👋
 
 25 anos, Bacharel em administração e possuo mais de 4 anos de experiência na área administrativa. Hoje tenho o sonho de me tornar um desenvolvedor front-end.
-Abaixo você vai conhecer sobre minhas experiências mais importantes:
+Abaixo você vai conhecer sobre minhas experiências anteriores:
 
 Iniciei minha carreira em 2016 na empresa Redzero, um curso de design e criação de games. Junto ao meu time, cuidávamos de toda parte desde o atendimento aos pais/alunos até a área administrativa, além de fazer a cobrança de inadimplentes e a abertura ou fechamento tanto do caixa como da unidade.
 
