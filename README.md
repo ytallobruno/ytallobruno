@@ -5,7 +5,7 @@ Abaixo você vai conhecer sobre minhas experiências anteriores:
 
 Iniciei minha carreira em 2016 na empresa Redzero, um curso de design e criação de games. Junto ao meu time, cuidávamos de toda parte desde o atendimento aos pais/alunos até a área administrativa, além de fazer a cobrança de inadimplentes e a abertura ou fechamento tanto do caixa como da unidade.
 
-Em outubro de 2017, entrei para empresa Evolua Pragas como estagiário administrativo e em 2018 fui efetivado como Assistente Administrativo, atando mais responsabilidades, fazendo com que eu progredisse cada vez mais em minhas habilidades administrativas, comunicativas, Excel, controle de contas, além de aprender manipular programas como DDSOFT e Loop Sistemas.
+Em outubro de 2017, entrei para empresa Evolua Pragas como estagiário administrativo e em 2018 fui efetivado como Assistente Administrativo, atando mais responsabilidades, fazendo com que eu progredisse cada vez mais em minhas habilidades administrativas num geral, além de aprender manipular programas como DDSOFT e Loop Sistemas.
 Ao longo do tempo desenvolvi diversas planilhas automatizadas para ajudar na organização das contas a pagar, cadastro de clientes, protocolos, relatórios entre outras.
 
 <div align="center">
