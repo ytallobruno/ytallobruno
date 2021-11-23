@@ -1,4 +1,4 @@
-### E aí, como vai você? Me chamo Ytallo 👋
+### Oi, como vai? Me chamo Ytallo 👋
 
 Tenho 25 anos, Bacharel em administração e possuo mais de 4 anos de experiência na área administrativa. Hoje tenho o sonho de me tornar um desenvolvedor front-end.
 Abaixo você vai conhecer sobre minhas experiências anteriores:
