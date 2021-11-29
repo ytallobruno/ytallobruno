@@ -1,12 +1,7 @@
 ### Oi, como vai? Me chamo Ytallo 👋
 
-Tenho 25 anos, Bacharel em administração e possuo mais de 4 anos de experiência na área administrativa. Hoje tenho o sonho de me tornar um desenvolvedor front-end.
-Abaixo você vai conhecer sobre minhas experiências anteriores:
+Tenho 25 anos, Bacharel em administração e possuo mais de 4 anos de experiência na área administrativa. Hoje tenho o sonho de me tornar um desenvolvedor.
 
-Iniciei minha carreira em 2016 na empresa Redzero, um curso de design e criação de games. Junto ao meu time, cuidávamos de toda parte desde o atendimento aos pais/alunos até a área administrativa, além de fazer a cobrança de inadimplentes e a abertura ou fechamento tanto do caixa como da unidade.
-
-Em outubro de 2017, entrei para empresa Evolua Pragas como estagiário administrativo e em 2018 fui efetivado como Assistente Administrativo, atando mais responsabilidades, fazendo com que eu progredisse cada vez mais em minhas habilidades administrativas num geral, além de aprender manipular programas como DDSOFT e Loop Sistemas.
-Ao longo do tempo desenvolvi diversas planilhas automatizadas para ajudar na organização das contas a pagar, cadastro de clientes, protocolos, relatórios entre outras.
 
 <div align="center">
   
