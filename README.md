@@ -1,6 +1,6 @@
 ### Oi, como vai? Me chamo Ytallo 👋
 
-Tenho 25 anos, Bacharel em administração e possuo mais de 4 anos de experiência na área administrativa. Hoje tenho o sonho de me tornar um desenvolvedor.
+Tenho 25 anos, Bacharel em administração e possuo mais de 4 anos de experiência trabalhando na área administrativa. Sou estudante da Resilia, participando da formação WebDev Full Stack.
 
 
 <div align="center">
