@@ -1,5 +1,5 @@
 ### Oi, como vai? Me chamo Ytallo 👋
-Tenho 25 anos, sou Bacharel em administração, possuo mais de 4 anos de experiência trabalhando na área administrativa e hoje sou estudante da Resilia, participando da turma 14 na formação WebDev Full Stack.
+Tenho vinte e cinco anos, sou Bacharel em administração, possuo mais de quatro anos de experiência trabalhando nessa área e hoje sou estudante da Resilia, participando da turma 14 na formação WebDev Full Stack.
 
 
 <div align="center">
