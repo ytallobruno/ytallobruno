@@ -1,5 +1,4 @@
-### Oi, como vai? Me chamo Ytallo 👋
-Tenho vinte e cinco anos, sou Bacharel em administração, possuo mais de quatro anos de experiência trabalhando nessa área e hoje sou estudante da Resilia, participando da turma 14 na formação WebDev Full Stack.
+### Oi, como vai? Pode me chamar de Ytallo (ou Yta) 👋
 
 
 <div align="center">
