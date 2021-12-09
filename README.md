@@ -8,26 +8,11 @@ Atualmente trabalho como assistente administrativo, porém estou correndo atrás
 
 
   <a href="https://github.com/ytallobruno">
-   <!--[ytallo github stats]-->  <img height="140em" src=""/>
-   <!--[ytallo github langs]-->  <img height="140em" src=""/>
+   <!--[ytallo github stats]-->  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&theme=default"/>
+   <!--[ytallo github langs]-->  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact"/>
 
 
   ![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg)
 
 
 </div>
-
-<!--
-**ytallobruno/ytallobruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
