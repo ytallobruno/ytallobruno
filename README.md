@@ -1,4 +1,5 @@
 ### Oi, como vai? Pode me chamar de Ytallo (ou Yta) 👋
+Atualmente trabalho de assistente administrativo porém estou estudando para iniciar minha transição de carreira e me tornar um desenvolvedor.
 
 
 <div align="center">
