@@ -17,3 +17,5 @@ Atualmente trabalho como assistente administrativo, porém estou correndo atrás
    ![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg)
 
   </div>
+
+  
