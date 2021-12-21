@@ -8,8 +8,8 @@ Atualmente trabalho como assistente administrativo, porém estou correndo atrás
 
   <div align="center">
     <a href="https://github.com/ytallobruno">
-      <!--[ytallo github stats]-->  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true"/>
-      <!--[ytallo github langs]-->  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact"/>
+      <!--[ytallo github stats]-->  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno"/>
+      <!--[ytallo github langs]-->  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno"/>
   </div>
 
   <div align="center">
