@@ -31,8 +31,8 @@ carreira e conquistar o sonho de me tornar um desenvolvedor.
 
 ## Meus status no Github 📈
 <h1 align="center">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&bg_color=blue"> <!--[ytallo github stats]-->
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact&bg_color=blue"/> <!--[ytallo github langs]-->
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&bg_color=green"> <!--[ytallo github stats]-->
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact&bg_color=green"/> <!--[ytallo github langs]-->
 
    ![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg) <!--[cobrinha]-->
 </h1>
