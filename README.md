@@ -25,7 +25,7 @@ carreira e conquistar o sonho de me tornar um desenvolvedor.
 
 - Me formei em Administração no ano de 2018
 - Faço parte da turma 14 WebDev Full Stack na Resilia
-- Adoro automatizar coisas (criava planilhas pra automatizar os processos administrativos no meu atual trabalho)
+- Adoro automatizar coisas (criei planilhas pra automatizar os processos administrativos no meu atual trabalho)
 - Amo conhecer e aprender coisas novas, além de ganhar novas experiências
 - 80% do tempo me divirto aprendendo algo
 
