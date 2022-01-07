@@ -1,20 +1,19 @@
-<div align="">
+<div>
  
-   ![banner do perfil](https://www.ignboards.com/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FX2mgz1R.gif&hash=4e9b3104256f78ddd0b6109373460647)
+  ![banner do perfil](https://www.ignboards.com/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FX2mgz1R.gif&hash=4e9b3104256f78ddd0b6109373460647)
 
 </div>
   
-## Oi, como vai? Pode me chamar de Ytallo (ou Yta) 👋
+## Olá, como vai? É um prazer ter você no meu perfil 👋
 
-```
-Atualmente trabalho como assistente administrativo, porém estou estudando para poder iniciar minha transição de 
-carreira e conquistar o sonho de me tornar um desenvolvedor.
-```
+Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro e formado em administração. Atualmente trabalho como assistente administrativo, porém estou estudando para poder iniciar minha transição de carreira e conquistar o sonho de me tornar um desenvolvedor.
 
-<div align="center">
-   <a href="https://www.linkedin.com/in/ytallobruno/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> <!--[meu linkedin]-->
-</div>  
-  
+ <div align="center"> 
+    <a href="mailto:ytallobruno@hotmail.com" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2525/2525737.png" height="40em" title="Enviar E-amil"></a>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://www.linkedin.com/in/ytallobruno/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40em" title="LinkedIn de Ytallo"></a>
+ </div>
+
   ## Tecnologias que estou estudando atualmente 💻
 
   - HTML
@@ -32,8 +31,8 @@ carreira e conquistar o sonho de me tornar um desenvolvedor.
 
 ## Meus status no Github 📈
 <h1 align="center">
-   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&bg_color=black"> <!--[ytallo github stats]-->
-   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact&bg_color=black"/> <!--[ytallo github langs]-->
+   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&bg_color=red"> <!--[ytallo github stats]-->
+   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact&bg_color=red"/> <!--[ytallo github langs]-->
 
    ![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg) <!--[cobrinha]-->
 </h1>
