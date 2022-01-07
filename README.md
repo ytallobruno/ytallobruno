@@ -20,6 +20,7 @@ carreira e conquistar o sonho de me tornar um desenvolvedor.
   - HTML
   - CSS
   - JavaScript
+  - Git
 
 ## Alguns fatos sobre mim ☕
 
