@@ -11,7 +11,7 @@
 <a href="#curiosidades">Curiosidades</a>&nbsp;&nbsp;&nbsp;
 <a href="#status">GitHub Status</a>&nbsp;&#9734;
 </div>
-  
+
 <h2 id="sobre"> Olá, como vai? É um prazer ter você no meu perfil 👋 </h2>
 
 Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro e formado em administração. Atualmente trabalho como assistente administrativo, porém estou estudando para poder iniciar minha transição de carreira e conquistar o sonho de me tornar um desenvolvedor.
