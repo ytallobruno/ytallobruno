@@ -17,9 +17,9 @@
 Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro e formado em administração. Atualmente trabalho como assistente administrativo, porém estou estudando para poder iniciar minha transição de carreira e conquistar o sonho de me tornar um desenvolvedor.
 
 <div align="center">
-  <a href="mailto:ytallobruno@hotmail.com"><img src="https://cdn-icons-png.flaticon.com/512/2525/2525737.png" height="40em" title="Enviar E-amil"></a>
+  <a href="mailto:ytallobruno@hotmail.com"><img src="https://cdn-icons-png.flaticon.com/512/2525/2525737.png" height="40em" title="Enviar E-mail"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/ytallobruno/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40em" title="LinkedIn de Ytallo"></a>
+  <a href="https://www.linkedin.com/in/ytallobruno/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/145/145807.png" height="40em" title="Linkedin de Ytallo"></a>
  
 </div>
 
@@ -40,7 +40,7 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
 
 - Me formei em Administração no ano de 2018
 - Faço parte da turma 14 WebDev Full Stack na Resilia
-- Adoro automatizar coisas (criei planilhas pra automatizar os processos administrativos no meu atual trabalho)
+- Adoro automatizar coisas (criei planilhas para automatizar os processos administrativos no meu atual trabalho)
 - Amo conhecer e aprender coisas novas. Além de ganhar novas experiências, eu quase sempre me divirto com isso
 - Sou apaixonado por danças urbanas
 
