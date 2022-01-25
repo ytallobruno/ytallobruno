@@ -32,7 +32,8 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
 
-- [Jogo de escolhas (HTML, CSS, JavaScript)](https://github.com/ytallobruno/projetofinalmodulo1resilia).
+- [Sprint: Mensagens Escondidas (HTML, CSS, JavaScript, Git)](https://github.com/ytallobruno/primeiroformulario).
+- [Jogo de escolhas (HTML, CSS, JavaScript, Git)](https://github.com/ytallobruno/projetofinalmodulo1resilia).
 - [Formulário de inscrição (HTML, CSS)](https://github.com/ytallobruno/primeiroformulario).
 
 <h2 id="curiosidades">  Alguns fatos sobre mim ☕ </h2>
@@ -47,7 +48,7 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
  
 <h1 align="center"> 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&bg_color=red"> <!--[ytallo github stats]-->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact&bg_color=red"/> <!--[ytallo github langs]--> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact&bg_color=black"/> <!--[ytallo github langs]--> 
  
   ![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg) <!--[cobrinha]-->
 </h1>
