@@ -32,7 +32,7 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
 
-- [Sprint: Mensagens Escondidas (HTML, CSS, JavaScript, Git)](https://github.com/ytallobruno/primeiroformulario).
+- [Sprint: Mensagens Escondidas (HTML, CSS, JavaScript, Git)](https://github.com/ytallobruno/ProjetoMensagemEscondida).
 - [Jogo de escolhas (HTML, CSS, JavaScript, Git)](https://github.com/ytallobruno/projetofinalmodulo1resilia).
 - [Formulário de inscrição (HTML, CSS)](https://github.com/ytallobruno/primeiroformulario).
 
