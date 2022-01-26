@@ -5,11 +5,11 @@
 </div>
   
 <div id="inicio" align="center">
-&#9734;&nbsp;<a href="#sobre">Sobre</a>&nbsp;&nbsp;&nbsp;
+&#9734;&nbsp;&nbsp;<a href="#sobre">Resumo</a>&nbsp;&nbsp;&nbsp;
 <a href="#aprendizado">O que estou estudando</a>&nbsp;&nbsp;&nbsp;
 <a href="#projetos">Projetos Importantes</a>&nbsp;&nbsp;&nbsp;
 <a href="#curiosidades">Curiosidades</a>&nbsp;&nbsp;&nbsp;
-<a href="#status">GitHub Status</a>&nbsp;&#9734;
+<a href="#status">GitHub Status</a>&nbsp;&nbsp;&#9734;
 </div>
 
 <h2 id="sobre"> Olá, como vai? É um prazer ter você no meu perfil 👋 </h2>
