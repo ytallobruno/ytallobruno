@@ -28,6 +28,8 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
 - HTML
 - CSS
 - JavaScript
+- JQuery
+- Bootstrap
 - Git
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
