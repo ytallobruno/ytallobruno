@@ -23,7 +23,7 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
  
 </div>
 
-<h2 id="aprendizado"> Tecnologias que estou estudando atualmente 💻 </h2>
+<h2 id="aprendizado"> Tecnologias que utilizo atualmente 💻 </h2>
 
 - HTML
 - CSS
