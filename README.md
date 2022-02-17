@@ -27,14 +27,14 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
 
 - HTML
 - CSS
+- Bootstrap
 - JavaScript
 - JQuery
-- Bootstrap
 - Git
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
 
-- [Lançamento de Produto - BattleFRONT  (HTML, CSS, JavaScript, JQuery, Bootstrap, API, Git)](https://github.com/ytallobruno/ProjetoFinalModulo2).
+- [Lançamento de Produto - BattleFRONT  (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)](https://github.com/ytallobruno/ProjetoFinalModulo2).
 - [APOD - Astronomy Picture Of the Day (HTML, CSS, JavaScript, JQuery, API, Git)](https://github.com/ytallobruno/projetoAPOD).
 - [Mensagens Escondidas (HTML, CSS, JavaScript, Git)](https://github.com/ytallobruno/ProjetoMensagemEscondida).
 - [Jogo de escolhas (HTML, CSS, JavaScript, Git)](https://github.com/ytallobruno/projetofinalmodulo1resilia).
@@ -61,5 +61,5 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
 </h1>
 
 <div align="center">
-  &#129145;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#129145;
+  &#11165;&nbsp;<a href="#inicio"><strong>Voltar ao topo</strong></a>&nbsp;&#11165;
 </div>
