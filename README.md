@@ -20,17 +20,21 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
   <a href="mailto:ytallobruno@hotmail.com"><img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" height="60em" title="Enviar E-mail"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ytallobruno/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/185/185964.png" height="60em" title="Linkedin de Ytallo"></a>
- 
 </div>
 
-<h2 id="aprendizado"> Tecnologias que utilizo atualmente 💻 </h2>
+<h2 id="aprendizado"> Tecnologias que possuo conhecimento 💻 </h2>
 
 - HTML
 - CSS
 - Bootstrap
+- Git
+
+<h2> Tecnologias que estou estudando 📚 </h2>
+
 - JavaScript
 - JQuery
-- Git
+- MySQL
+
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
 
@@ -54,7 +58,7 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=ytallobruno&margin-w=5&margin-h=5&no-frame=true) <!--[troféis]-->
 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&bg_color=red"> <!--[ytallo github stats]-->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&bg_color=red"/> <!--[ytallo github stats]-->
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact&bg_color=black"/> <!--[ytallo github langs]--> 
 
   ![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg) <!--[cobrinha]-->
