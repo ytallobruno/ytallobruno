@@ -17,7 +17,7 @@
 Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro e formado em administração. Atualmente trabalho como assistente administrativo, porém estou estudando para poder iniciar minha transição de carreira e conquistar o sonho de me tornar um desenvolvedor.
 
 <div align="center">
-  <a href="mailto:ytallobruno@hotmail.com"><img src="https://cdn-icons-png.flaticon.com/512/552/552486.png" height="60em" title="Enviar E-mail"></a>
+  <a href="mailto:ytallodev@gmail.com"><img src="https://cdn-icons.flaticon.com/png/512/720/premium/720277.png?token=exp=1646844683~hmac=0654656782f54bc1af32368f127a2c3f" height="60em" title="Enviar E-mail"></a>
     &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ytallobruno/" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/185/185964.png" height="60em" title="Linkedin de Ytallo"></a>
 </div>
