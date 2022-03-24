@@ -41,11 +41,11 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
 
-- [Lançamento de Produto - BattleFRONT  (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)](https://github.com/ytallobruno/ProjetoFinalModulo2).
-- [APOD - Astronomy Picture Of the Day (HTML, CSS, JavaScript, JQuery, API, Git)](https://github.com/ytallobruno/projetoAPOD).
-- [Mensagens Escondidas (HTML, CSS, JavaScript, Git)](https://github.com/ytallobruno/ProjetoMensagemEscondida).
-- [Jogo de escolhas (HTML, CSS, JavaScript, Git)](https://github.com/ytallobruno/projetofinalmodulo1resilia).
-- [Formulário de inscrição (HTML, CSS)](https://github.com/ytallobruno/primeiroformulario).
+- [Lançamento de Produto - BattleFRONT](https://github.com/ytallobruno/ProjetoFinalModulo2) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
+- [APOD - Astronomy Picture Of the Day](https://github.com/ytallobruno/projetoAPOD) (HTML, CSS, JavaScript, JQuery, API, Git)
+- [Mensagens Escondidas](https://github.com/ytallobruno/ProjetoMensagemEscondida) (HTML, CSS, JavaScript, Git)
+- [Jogo de escolhas](https://github.com/ytallobruno/projetofinalmodulo1resilia) (HTML, CSS, JavaScript, Git)
+- [Formulário de inscrição](https://github.com/ytallobruno/primeiroformulario) (HTML, CSS)
 
 <h2 id="curiosidades">  Alguns fatos sobre mim ☕ </h2>
 
