@@ -32,6 +32,7 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
 <h2> Tecnologias que estou estudando 📚 </h2>
 
 - JavaScript
+- React
 - JQuery
 - MySQL
 
