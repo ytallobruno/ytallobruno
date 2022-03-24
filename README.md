@@ -59,8 +59,8 @@ Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro 
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=ytallobruno&margin-w=5&margin-h=5&no-frame=true) <!--[troféis]-->
 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true"/> <!--[ytallo github stats]-->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact"/> <!--[ytallo github langs]--> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&theme=default"/> <!--[ytallo github stats]-->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact&theme=default"/> <!--[ytallo github langs]--> 
 
   ![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg) <!--[cobrinha]-->
 </h1>
