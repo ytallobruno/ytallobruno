@@ -43,8 +43,10 @@ Venho estudando para poder iniciar minha ***transição de carreira*** e conquis
 
 - [x] JavaScript
 - [x] React
-- [x] JQuery
-- [x] MySQL
+- [ ] JQuery
+- [ ] MySQL
+- [ ] MongoDB
+- [x] Docker 
 
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
