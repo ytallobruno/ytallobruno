@@ -33,12 +33,13 @@ Venho estudando para poder iniciar minha ***transição de carreira*** e conquis
 
 <h2 id="aprendizado"> Tecnologias que.. 💻 </h2>
 
-POSSUO CONHECIMENTO | ESTOU ESTUDANDO | PAUSEI OS ESTUDOS
+POSSUO CONHECIMENTO | ESTOU ESTUDANDO | PAUSEI OS ESTUDOS MAS IREI VOLTAR
 :-----------------: | :------------:  | :------:
 HTML                | JavaScript      | JQuery
-CSS                 | React           | MongoDB
+CSS                 | React.JS        | MongoDB
 Bootstrap           | MySQL           |
 Git                 | Docker          |
+                    | Node.JS         | 
 
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
