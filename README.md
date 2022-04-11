@@ -39,7 +39,7 @@ HTML                | JavaScript      | JQuery
 CSS                 | React.JS        | MongoDB
 Bootstrap           | MySQL           |
 Git                 | Docker          |
-                    | Node.JS         | 
+Node.JS             |                 | 
 
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
