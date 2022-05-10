@@ -15,8 +15,8 @@
 
 <h2 id="sobre">É um prazer ter você no meu perfil 👋 </h2>
 
-Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro e formado em administração.<br>
-Venho estudando para poder iniciar minha ***transição de carreira*** e conquistar o sonho de me tornar um desenvolvedor Full Stack.
+Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro, formado em administração e atualmente Software Developer Trainee na [Calindra](https://calindra.tech/).<br>
+Venho aprendendo e utilizando tecnologias como HTML, CSS, Git, Bootstrap, JavaScript, Node JS, MySQL, React JS, entre outras em meus projetos para poder assim, fixar melhor meus conhecimentos.
 
 
 <h2 id="contato">Entre em contato 📞</h2>
