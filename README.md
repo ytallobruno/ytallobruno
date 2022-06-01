@@ -37,14 +37,16 @@ POSSUO CONHECIMENTO | ESTOU ESTUDANDO | PAUSEI OS ESTUDOS MAS IREI VOLTAR | TENH
 :------:            | :------:        | :------:                          | :------:
 HTML                | JavaScript      | JQuery                            | Next.JS
 CSS                 | React.JS        | MongoDB                           | TailWind CSS
-Bootstrap           | Express.JS      | MySQL                             | Dart
-Git                 |                 | Docker                            |
-Node.JS             |                 |                                   |
+Bootstrap           | Java            | MySQL                             | Dart
+Git                 |                 | Docker                            | React Native
+Node.JS             |                 | Express.JS                        |
+React.JS            |                 |                                   |
 
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
 
-- [x] [Projeto Final Módulo 4 - API Restaurante](https://github.com/ytallobruno/ProjetoFinalModulo4) (JavaScript, NodeJS, Git, SQLite, Sequelize, Express)
+- [x] [Projeto Final Módulo 5 - Resili Cucina](https://github.com/ytallobruno/ProjetoFinalModulo5) (React JS, Vite, Javascript)
+- [x] [API Restaurante](https://github.com/ytallobruno/ProjetoFinalModulo4) (JavaScript, NodeJS, Git, SQLite, Sequelize, Express)
 - [x] [Lançamento de Produto - BattleFRONT](https://github.com/ytallobruno/ProjetoFinalModulo2) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
 - [x] [APOD - Astronomy Picture Of the Day](https://github.com/ytallobruno/projetoAPOD) (HTML, CSS, JavaScript, JQuery, API, Git)
 - [x] [Mensagens Escondidas](https://github.com/ytallobruno/ProjetoMensagemEscondida) (HTML, CSS, JavaScript, Git)
