@@ -35,19 +35,20 @@ Venho aprendendo e utilizando tecnologias como HTML, CSS, Git, Bootstrap, JavaSc
 
 POSSUO CONHECIMENTO | ESTOU ESTUDANDO | PAUSEI OS ESTUDOS MAS IREI VOLTAR | TENHO INTERESSE
 :------:            | :------:        | :------:                          | :------:
-HTML                | JavaScript      | JQuery                            | Next.JS
+HTML                | Java            | JQuery                            | Next.JS
 CSS                 | React.JS        | MongoDB                           | TailWind CSS
-Bootstrap           | Java            | MySQL                             | Dart
+Bootstrap           |                 | MySQL                             | Dart
 Git                 |                 | Docker                            | React Native
-Node.JS             |                 | Express.JS                        |
+JavaScript          |                 | Express.JS                        |
+Node.JS             |                 |                                   |
 React.JS            |                 |                                   |
 
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
 
-- [x] [Projeto Final Módulo 5 - Resili Cucina](https://github.com/ytallobruno/ProjetoFinalModulo5) (React JS, Vite, Javascript)
+- [x] [Resili Cucina](https://github.com/ytallobruno/ProjetoFinalModulo5) (React JS, Vite, Javascript)
 - [x] [API Restaurante](https://github.com/ytallobruno/ProjetoFinalModulo4) (JavaScript, NodeJS, Git, SQLite, Sequelize, Express)
-- [x] [Lançamento de Produto - BattleFRONT](https://github.com/ytallobruno/ProjetoFinalModulo2) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
+- [x] [BattleFRONT](https://github.com/ytallobruno/ProjetoFinalModulo2) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
 - [x] [APOD - Astronomy Picture Of the Day](https://github.com/ytallobruno/projetoAPOD) (HTML, CSS, JavaScript, JQuery, API, Git)
 - [x] [Mensagens Escondidas](https://github.com/ytallobruno/ProjetoMensagemEscondida) (HTML, CSS, JavaScript, Git)
 - [x] [Formulário de inscrição](https://github.com/ytallobruno/primeiroformulario) (HTML, CSS)
