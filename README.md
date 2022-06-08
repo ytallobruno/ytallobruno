@@ -46,7 +46,7 @@ React.JS            |                 |                                   |
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
 
-- [x] [Resili Cucina](https://github.com/ytallobruno/ProjetoFinalModulo5) (React JS, Vite, Javascript)
+- [x] [Resili Cucina](https://github.com/ytallobruno/ProjetoFinalModulo5) (React JS, Vite, Javascript, API)
 - [x] [API Restaurante](https://github.com/ytallobruno/ProjetoFinalModulo4) (JavaScript, NodeJS, Git, SQLite, Sequelize, Express)
 - [x] [BattleFRONT](https://github.com/ytallobruno/ProjetoFinalModulo2) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
 - [x] [APOD - Astronomy Picture Of the Day](https://github.com/ytallobruno/projetoAPOD) (HTML, CSS, JavaScript, JQuery, API, Git)
