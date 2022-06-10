@@ -57,10 +57,10 @@ React.JS            |                 |                                   |
 <h2 id="curiosidades">  Alguns fatos sobre mim ☕ </h2>
 
 - Me formei em Administração no ano de 2018
-- Faço parte da turma 14 WebDev Full Stack na Resilia
+- Fiz parte da turma 14 WebDev Full Stack na Resilia
 - Adoro automatizar coisas (criei planilhas para automatizar os processos administrativos no meu atual trabalho)
 - Amo conhecer e aprender coisas novas. Além de ganhar novas experiências, eu quase sempre me divirto com isso
-- Sou apaixonado por danças urbanas
+- Sou apaixonado por danças urbanas (hip hop, dancehall, popping, krump etc)
 
 
 <h2 id="status"> Meus status no Github 📈 </h2>
