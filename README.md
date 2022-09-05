@@ -16,7 +16,7 @@
 <h2 id="sobre">É um prazer ter você no meu perfil 👋 </h2>
 
 Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro, formado em administração e atualmente Software Developer Trainee na [Calindra](https://calindra.tech/).<br>
-Venho aprendendo e utilizando tecnologias como HTML, CSS, Git, Bootstrap, JavaScript, Node JS, MySQL, React JS, entre outras em meus projetos para poder assim, fixar melhor meus conhecimentos.
+Venho aprendendo e utilizando tecnologias como HTML, CSS, Git, Bootstrap, JavaScript, Node JS, MySQL, React JS, Java, entre outras durante o trabalho e em meus projetos para poder assim, expandir meus conhecimentos.
 
 
 <h2 id="contato">Entre em contato 📞</h2>
@@ -69,8 +69,8 @@ React.JS            |                 |                                   |
 
   ![trophy](https://github-profile-trophy.vercel.app/?username=ytallobruno&margin-w=5&margin-h=5&no-frame=true) <!--[troféis]-->
 
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true&theme=ok"/> <!--[ytallo github stats]-->
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact&theme=ok"/> <!--[ytallo github langs]--> 
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true"/> <!--[ytallo github stats]-->
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact"/> <!--[ytallo github langs]--> 
 
   ![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg) <!--[cobrinha]-->
  
