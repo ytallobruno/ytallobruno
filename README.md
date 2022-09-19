@@ -15,8 +15,8 @@
 
 <h2 id="sobre">É um prazer ter você no meu perfil 👋 </h2>
 
-Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro, formado em administração e atualmente Software Developer Trainee na [Calindra](https://calindra.tech/).<br>
-Venho aprendendo e utilizando tecnologias como HTML, CSS, Git, Bootstrap, JavaScript, Node JS, MySQL, React JS, Java, entre outras durante o trabalho e em meus projetos para poder assim, expandir meus conhecimentos.
+Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro, bacharel em administração e Software Developer na [Calindra](https://calindra.tech/).<br>
+Venho aprendendo e utilizando tecnologias como HTML, CSS, Git, Bootstrap, JavaScript, Node.js, MySQL, React.js, Java, entre outras durante o trabalho e em meus projetos para poder assim, expandir meus conhecimentos.
 
 
 <h2 id="contato">Entre em contato 📞</h2>
