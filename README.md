@@ -33,25 +33,27 @@ Venho aprendendo e utilizando tecnologias como HTML, CSS, Git, Bootstrap, JavaSc
 
 <h2 id="aprendizado"> Tecnologias que.. 💻 </h2>
 
-POSSUO CONHECIMENTO | ESTOU ESTUDANDO | PAUSEI OS ESTUDOS MAS IREI VOLTAR | TENHO INTERESSE
+POSSUO CONHECIMENTO | ESTOU ESTUDANDO | PAUSEI OS ESTUDOS                 | TENHO INTERESSE
 :------:            | :------:        | :------:                          | :------:
-HTML                | Java            | JQuery                            | Next.JS
-CSS                 | React.JS        | MongoDB                           | TailWind CSS
-Bootstrap           |                 | MySQL                             | Dart
-Git                 |                 | Docker                            | React Native
-JavaScript          |                 | Express.JS                        |
-Node.JS             |                 |                                   |
-React.JS            |                 |                                   |
+HTML                | Java            | JQuery                            | Kotlin
+CSS                 | Spring Boot     | MongoDB                           | TailWind CSS
+Bootstrap           | WebFlux         | Docker                            | Dart
+Git                 | MySQL           | Node.Js                           | React Native
+JavaScript          |                 | React.Js                          | 
+Node.Js             |                 |                                   |
+React.Js            |                 |                                   |
+Java                |                 |                                   |
+Spring Boot         |                 |                                   |
 
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
 
+- [x] [H2 (Hip-Hop) Api](https://github.com/ytallobruno/h2api) (Java, Lombok, Spring, MySQL)
 - [x] [Resili Cucina](https://github.com/ytallobruno/ProjetoFinalModulo5) (React JS, Vite, Javascript, API)
 - [x] [API Restaurante](https://github.com/ytallobruno/ProjetoFinalModulo4) (JavaScript, NodeJS, Git, SQLite, Sequelize, Express)
 - [x] [BattleFRONT](https://github.com/ytallobruno/ProjetoFinalModulo2) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
 - [x] [APOD - Astronomy Picture Of the Day](https://github.com/ytallobruno/projetoAPOD) (HTML, CSS, JavaScript, JQuery, API, Git)
 - [x] [Mensagens Escondidas](https://github.com/ytallobruno/ProjetoMensagemEscondida) (HTML, CSS, JavaScript, Git)
-- [x] [Formulário de inscrição](https://github.com/ytallobruno/primeiroformulario) (HTML, CSS)
 
 
 <h2 id="curiosidades">  Alguns fatos sobre mim ☕ </h2>
