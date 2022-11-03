@@ -22,8 +22,8 @@ Venho aprendendo e utilizando tecnologias como HTML, CSS, Git, Bootstrap, JavaSc
 <h2 id="contato">Entre em contato 📞</h2>
 <div align="">
  
-   [![GMAIL](https://img.shields.io/badge/ytallodev@gmail.com-004f93?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ytallodev@gmail.com)](mailto:ytallodev@gmail.com)
- <br>
+<!--    [![GMAIL](https://img.shields.io/badge/ytallodev@gmail.com-004f93?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ytallodev@gmail.com)](mailto:)
+ <br> -->
    [![LINKEDIN](https://img.shields.io/badge/-Ytallo%20Bruno-004f93?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ytallobruno/)](https://www.linkedin.com/in/ytallobruno/)
  <br>
    [![TWITTER](https://img.shields.io/badge/Follow:%20@ytallodev-004f93?style=flat-square&logo=Twitter&logoColor=white&link=mailto:ytallodev@gmail.com)](https://twitter.com/ytallodev/)
