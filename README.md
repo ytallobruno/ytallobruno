@@ -38,12 +38,13 @@ POSSUO CONHECIMENTO | ESTOU ESTUDANDO | PAUSEI OS ESTUDOS                 | TENH
 HTML                | Java            | JQuery                            | Kotlin
 CSS                 | Spring Boot     | MongoDB                           | TailWind CSS
 Bootstrap           | WebFlux         | Docker                            | Dart
-Git                 | MySQL           | Node.Js                           | React Native
+Git                 |                 | Node.Js                           | React Native
 JavaScript          |                 | React.Js                          | 
 Node.Js             |                 |                                   |
 React.Js            |                 |                                   |
 Java                |                 |                                   |
 Spring Boot         |                 |                                   |
+MySQL               |                 |                                   |
 
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
