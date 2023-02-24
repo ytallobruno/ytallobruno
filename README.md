@@ -36,7 +36,7 @@ POSSUO CONHECIMENTO | ESTOU ESTUDANDO | PAUSEI OS ESTUDOS                 | TENH
 HTML                | Java            | JQuery                            | Kotlin
 CSS                 | Spring Boot     | MongoDB                           | Flutter
 Bootstrap           | WebFlux         | Docker                            | Dart
-Git                 |                 | Node.Js                           | React Native
+Git                 | AWS             | Node.Js                           | React Native
 JavaScript          |                 | React.Js                          | 
 Node.Js             |                 |                                   |
 React.Js            |                 |                                   |
