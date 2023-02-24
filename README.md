@@ -60,7 +60,7 @@ MySQL               |                 |                                   |
 
 - Me formei em Administração no ano de 2018
 - Fiz parte da turma 14 WebDev Full Stack na Resilia
-- Adoro automatizar coisas (criei planilhas para automatizar os processos administrativos no meu atual trabalho)
+- Gosto de automatizar coisas (criei planilhas para automatizar os processos administrativos no meu antigo trabalho)
 - Amo conhecer e aprender coisas novas. Além de ganhar novas experiências, eu quase sempre me divirto com isso
 - Sou apaixonado por danças urbanas (hip hop, dancehall, popping, krump etc)
 
