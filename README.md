@@ -1,6 +1,6 @@
 <div>
  
-![banner do perfil](https://www.ignboards.com/proxy.php?image=https%3A%2F%2Fi.imgur.com%2FX2mgz1R.gif&hash=4e9b3104256f78ddd0b6109373460647)
+![banner do perfil, feito por brunopixels](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
  
 </div>
   
@@ -15,15 +15,13 @@
 
 <h2 id="sobre">É um prazer ter você no meu perfil 👋 </h2>
 
-Me chamo Ytallo, mas pode me chamar de Yta. Sou da Zona Oeste do Rio de Janeiro, bacharel em administração e Software Developer na [Calindra](https://calindra.tech/).<br>
-Venho aprendendo e utilizando tecnologias como HTML, CSS, Git, Bootstrap, JavaScript, Node.js, MySQL, React.js, Java, entre outras durante o trabalho e em meus projetos para poder assim, expandir meus conhecimentos.
+Me chamo Ytallo, sou da Zona Oeste do Rio de Janeiro, bacharel em administração e Software Developer na [Calindra](https://calindra.tech/).<br>
+Venho trabalhando junto a minha equipe em projetos de back end voltados para a Ame Digital, tais como Pix e Open Finance.
 
 
 <h2 id="contato">Entre em contato 📞</h2>
-<div align="">
+<div>
  
-<!--    [![GMAIL](https://img.shields.io/badge/ytallodev@gmail.com-004f93?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ytallodev@gmail.com)](mailto:)
- <br> -->
    [![LINKEDIN](https://img.shields.io/badge/-Ytallo%20Bruno-004f93?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ytallobruno/)](https://www.linkedin.com/in/ytallobruno/)
  <br>
    [![TWITTER](https://img.shields.io/badge/Follow:%20@ytallodev-004f93?style=flat-square&logo=Twitter&logoColor=white&link=mailto:ytallodev@gmail.com)](https://twitter.com/ytallodev/)
@@ -36,7 +34,7 @@ Venho aprendendo e utilizando tecnologias como HTML, CSS, Git, Bootstrap, JavaSc
 POSSUO CONHECIMENTO | ESTOU ESTUDANDO | PAUSEI OS ESTUDOS                 | TENHO INTERESSE
 :------:            | :------:        | :------:                          | :------:
 HTML                | Java            | JQuery                            | Kotlin
-CSS                 | Spring Boot     | MongoDB                           | TailWind CSS
+CSS                 | Spring Boot     | MongoDB                           | Flutter
 Bootstrap           | WebFlux         | Docker                            | Dart
 Git                 |                 | Node.Js                           | React Native
 JavaScript          |                 | React.Js                          | 
@@ -44,6 +42,7 @@ Node.Js             |                 |                                   |
 React.Js            |                 |                                   |
 Java                |                 |                                   |
 Spring Boot         |                 |                                   |
+WebFlux             |                 |                                   |
 MySQL               |                 |                                   |
 
 
