@@ -1,16 +1,19 @@
 <div>
  
-![banner do perfil, feito por brunopixels](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
- 
+  ![banner do perfil, feito por brunopixels](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
+</div>
+
+<div align="center">
+  <img height="30em" src="https://visitor-badge.glitch.me/badge?page_id=ytallobruno&left_color=Black&right_color=CornflowerBlue" alt="visitantes do perfil"/>
 </div>
   
 <div id="inicio" align="center">
-&#9734;&nbsp;&nbsp;<a href="#sobre">Resumo</a>&nbsp;&nbsp;
-<a href="#contato">Contato</a>&nbsp;&nbsp;
-<a href="#aprendizado">O que estou estudando</a>&nbsp;&nbsp;
-<a href="#projetos">Projetos Importantes</a>&nbsp;&nbsp;
-<a href="#curiosidades">Curiosidades</a>&nbsp;&nbsp;
-<a href="#status">GitHub Status</a>&nbsp;&nbsp;&#9734;
+  &#9734;&nbsp;&nbsp;<a href="#sobre">Resumo</a>&nbsp;&nbsp;
+  <a href="#contato">Contato</a>&nbsp;&nbsp;
+  <a href="#aprendizado">O que estou estudando</a>&nbsp;&nbsp;
+  <a href="#projetos">Projetos Importantes</a>&nbsp;&nbsp;
+  <a href="#curiosidades">Curiosidades</a>&nbsp;&nbsp;
+  <a href="#status">GitHub Status</a>&nbsp;&nbsp;&#9734;
 </div>
 
 <h2 id="sobre">É um prazer ter você no meu perfil 👋 </h2>
@@ -69,11 +72,12 @@ MySQL               |                 |                                   |
 <h2 id="status"> Meus status no Github 📈 </h2>
  
 <div align="center">
-
+ 
   ![trophy](https://github-profile-trophy.vercel.app/?username=ytallobruno&margin-w=5&margin-h=5&no-frame=true) <!--[troféis]-->
 
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true"/> <!--[ytallo github stats]-->
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact"/> <!--[ytallo github langs]--> 
+
 
   ![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg) <!--[cobrinha]-->
  
