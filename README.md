@@ -1,12 +1,7 @@
 <div>
- 
-  ![banner do perfil, feito por brunopixels](https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif)
+  <img src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif" alt="banner do perfil, feito por brunopixels"/>
 </div>
 
-<div align="center">
-  <img height="30em" src="https://visitor-badge.glitch.me/badge?page_id=ytallobruno&left_color=Black&right_color=CornflowerBlue" alt="visitantes do perfil"/>
-</div>
-  
 <div id="inicio" align="center">
   &#9734;&nbsp;&nbsp;<a href="#sobre">Resumo</a>&nbsp;&nbsp;
   <a href="#contato">Contato</a>&nbsp;&nbsp;
@@ -14,6 +9,11 @@
   <a href="#projetos">Projetos Importantes</a>&nbsp;&nbsp;
   <a href="#curiosidades">Curiosidades</a>&nbsp;&nbsp;
   <a href="#status">GitHub Status</a>&nbsp;&nbsp;&#9734;
+</div>
+
+<br>
+<div align="center">
+  <img height="30em" src="https://visitor-badge.glitch.me/badge?page_id=ytallobruno&left_color=Black&right_color=CornflowerBlue" alt="visitantes do perfil"/>
 </div>
 
 <h2 id="sobre">É um prazer ter você no meu perfil 👋 </h2>
