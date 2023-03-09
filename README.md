@@ -48,12 +48,13 @@ MySQL               |                 |                                   |
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
 
-- [x] [H2 (Hip-Hop) Api](https://github.com/ytallobruno/h2api) (Java, Lombok, Spring, MySQL)
-- [x] [Resili Cucina](https://github.com/ytallobruno/ProjetoFinalModulo5) (React JS, Vite, Javascript, API)
+- [x] [Contador Regressivo](https://github.com/ytallobruno/contadorRegressivo) (Vite, React, React router dom, CSS, Git)
+- [x] [Resili Cucina](https://github.com/ytallobruno/ProjetoFinalModulo5) (Vite, React, Javascript, consumo de API)
 - [x] [API Restaurante](https://github.com/ytallobruno/ProjetoFinalModulo4) (JavaScript, NodeJS, Git, SQLite, Sequelize, Express)
-- [x] [BattleFRONT](https://github.com/ytallobruno/ProjetoFinalModulo2) (HTML, CSS, Bootstrap, JavaScript, JQuery, API, Git)
-- [x] [APOD - Astronomy Picture Of the Day](https://github.com/ytallobruno/projetoAPOD) (HTML, CSS, JavaScript, JQuery, API, Git)
+- [x] [BattleFRONT](https://github.com/ytallobruno/ProjetoFinalModulo2) (HTML, CSS, Bootstrap, JavaScript, JQuery, consumo de API, Git)
+- [x] [APOD - Astronomy Picture Of the Day](https://github.com/ytallobruno/projetoAPOD) (HTML, CSS, JavaScript, JQuery, consumo de API, Git)
 - [x] [Mensagens Escondidas](https://github.com/ytallobruno/ProjetoMensagemEscondida) (HTML, CSS, JavaScript, Git)
+<!-- - [x] [H2 (Hip-Hop) Api](https://github.com/ytallobruno/h2api) (Java, Lombok, Spring, MySQL) -->
 
 
 <h2 id="curiosidades">  Alguns fatos sobre mim ☕ </h2>
