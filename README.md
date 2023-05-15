@@ -41,12 +41,12 @@ CSS                 | Spring Boot     | MongoDB                           | Flut
 Bootstrap           | WebFlux         | Docker                            | Dart
 Git                 | AWS             | Node.Js                           | React Native
 JavaScript          | Gravitee        | React.Js                          | 
-Node.Js             |                 |                                   |
+Node.Js             | Terraform       |                                   |
 React.Js            |                 |                                   |
 Java                |                 |                                   |
 Spring Boot         |                 |                                   |
 WebFlux             |                 |                                   |
-MySQL               |                 |                                   |
+SQL                 |                 |                                   |
 
 
 <h2 id="projetos">  Projetos mais importantes 📌 </h2>
