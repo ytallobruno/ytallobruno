@@ -18,7 +18,7 @@
 
 <h2 id="sobre">É um prazer ter você no meu perfil 👋 </h2>
 
-Me chamo Ytallo, sou da Zona Oeste do Rio de Janeiro, bacharel em administração, atualmente estou cursando Análise e Desenvolvimento de Sistemas na <strong>PUC Minas</strong> e Software Developer na [Calindra](https://calindra.tech/).<br>
+Me chamo Ytallo, sou da Zona Oeste do Rio de Janeiro, bacharel em administração, atualmente estou cursando Análise e Desenvolvimento de Sistemas na <strong>PUC Minas</strong> e também sou Software Developer na [Calindra](https://calindra.tech/).<br>
 Venho trabalhando junto a minha equipe em projetos de back end voltados para a Ame Digital, tais como Pix e Open Finance.
 
 
