@@ -40,6 +40,7 @@ Venho trabalhando junto a minha equipe em projetos de back end voltados para a A
 
 <h2 id="projetos">Projetos mais importantes 📌 </h2>
 
+- [x] [Fila Fácil](https://github.com/ytallobruno/ads-2024-e1-proj-fila-facil) (HTML, CSS, Javascript, Bootstrap, Git)
 - [x] [Contador Regressivo](https://github.com/ytallobruno/contadorRegressivo) (Vite, React, React router dom, CSS, Git)
 - [x] [Resili Cucina](https://github.com/ytallobruno/ProjetoFinalModulo5) (Vite, React, Javascript, consumo de API)
 - [x] [API Restaurante](https://github.com/ytallobruno/ProjetoFinalModulo4) (JavaScript, NodeJS, Git, SQLite, Sequelize, Express)
