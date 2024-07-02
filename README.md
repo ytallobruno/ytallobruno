@@ -17,8 +17,8 @@ Venho trabalhando junto a minha equipe em projetos de back end voltados para a A
 
 <h2 id="contato">Entre em contato 📞</h2>
 
-   [![LINKEDIN](https://img.shields.io/badge/-Ytallo%20Bruno-004f93?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ytallobruno/)](https://www.linkedin.com/in/ytallobruno/)<br>
-   [![TWITTER](https://img.shields.io/badge/Follow:%20@ytallodev-004f93?style=flat-square&logo=Twitter&logoColor=white&link=https://twitter.com/ytallodev/)](https://twitter.com/ytallodev/)
+   [![LINKEDIN](https://img.shields.io/badge/Ytallo%20Bruno-1?style=flat&logo=linkedin&logoColor=white&color=00A074&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fytallobruno%2F)](https://www.linkedin.com/in/ytallobruno/)<br>
+   [![TWITTER](https://img.shields.io/badge/%40ytallodev-1?style=flat&logo=x&logoColor=white&color=00A074&link=https%3A%2F%2Fx.com%2Fytallodev%2F)](https://x.com/ytallodev/)
 
 <h2 id="aprendizado">Tecnologias que.. 💻 </h2>
 
