@@ -13,8 +13,9 @@
 
 <h2 id="sobre">É um prazer ter você no meu perfil 👋 </h2>
 
-Me chamo Ytallo, sou da Zona Oeste do Rio de Janeiro, bacharel em administração, atualmente estou cursando Análise e Desenvolvimento de Sistemas na **PUC Minas** e também sou Software Developer na Calindra.<br>
-Venho trabalhando junto a minha equipe em projetos de back end voltados para a Ame Digital, tais como Pix e Open Finance.
+Me chamo Ytallo, tenho 28 anos, sou do Rio de Janeiro e atualmente trabalho como Outsourced Software Engineer na BTG Pactual, integrando o time de offshore responsável pela cartela de clientes dos estados unidos. 
+
+Anteriormente, fui desenvolvedor back-end na Calindra Tech, onde contribuí para projetos estratégicos como Pix e Open Finance na Ame Digital do grupo B2W e integrei um time responsável por um cliente internacional, Stakkd.tech.
 
 <h2 id="contato">Entre em contato 📞</h2>
 
