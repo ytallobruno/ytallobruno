@@ -13,7 +13,7 @@
 
 <h2 id="sobre">É um prazer ter você no meu perfil 👋 </h2>
 
-Me chamo Ytallo, tenho 28 anos, sou do Rio de Janeiro e atualmente trabalho como Outsourced Software Engineer na BTG Pactual, integrando o time de offshore responsável pela cartela de clientes dos estados unidos. 
+Me chamo Ytallo, tenho 28 anos, sou do Rio de Janeiro e atualmente trabalho como Outsourced Software Engineer na BTG Pactual, integrando o time de offshore responsável pela cartela de clientes dos estados unidos.
 
 Anteriormente, fui desenvolvedor back-end na Calindra Tech, onde contribuí para projetos estratégicos como Pix e Open Finance na Ame Digital do grupo B2W e integrei um time responsável por um cliente internacional, Stakkd.tech.
 
@@ -24,26 +24,24 @@ Twitter/X: [![TWITTER](https://img.shields.io/badge/%40ytallodev-1?style=flat&lo
 
 <h2 id="aprendizado">Tecnologias que possuo conhecimento 💻 </h2>
 
-| TECNOLOGIAS DE PROGRAMAÇÃO | CLOUD & INFRAESTRUTURA | DESENVOLVIMENTO WEB | FERRAMENTAS & GESTÃO |
-| :------------------------: | :--------------------: | :-----------------: | :------------------: |
-|          Java 17           |      AWS Services      |      React.js       |     Git/GitFlow      |
-|        Spring Boot         |        AWS SQS         |       Next.js       |    Github/Gitlab     |
-|          Webflux           |     AWS CloudWatch     |     TypeScript      |      Bitbucket       |
-|          Quarkus           |     AWS CodeBuild      |     JavaScript      |         Jira         |
-|       JUnit/Mockito        |    AWS CodePipeline    |      HTML/CSS       |      Confluence      |
-|         REST APIs          |      AWS ECS/ECR       |     Material UI     |        VSCode        |
-|           P.O.O            |      AWS IAM/RDS       |      Chakra UI      |       IntelliJ       |
-|          Gravitee          |  AWS Secrets Manager   |    Tailwind CSS     |       WebStorm       |
-|         Hibernate          |         Docker         |       Node.js       |        Rider         |
-|           MySQL            |       Terraform        |      Bootstrap      |     Scrum/Kanban     |
-|          MongoDB           |        DataDog         |                     |     Code Review      |
-|          DynamoDB          |         Kibana         |                     |                      |
+|     TECNOLOGIAS DE PROGRAMAÇÃO     |                                           CLOUD & INFRAESTRUTURA                                            | DESENVOLVIMENTO WEB | BANCOS DE DADOS | FERRAMENTAS & GESTÃO |
+| :--------------------------------: | :---------------------------------------------------------------------------------------------------------: | :-----------------: | :-------------: | :------------------: |
+|              Java 17               | AWS (SQS, CloudWatch, CodeBuild, CodePipeline, Secrets Manager, IAM, RDS, ECS, ECR, Step Function, AppSync) |      React.js       |      MySQL      |    Git / GitFlow     |
+|            Spring Boot             |                                                   Kibana                                                    |       Next.js       |       SQL       |   Github / Gitlab    |
+|              Quarkus               |                                                   DataDog                                                   |     TypeScript      |     MongoDB     |      Bitbucket       |
+|        Programação Reativa         |                                                   Docker                                                    |     JavaScript      |    Hibernate    |         Jira         |
+|              Webflux               |                                                  Terraform                                                  |     HTML / CSS      |    DynamoDB     |      Confluence      |
+|  Programação Orientada a Objetos   |                                                                                                             |      Bootstrap      |                 |     Code Review      |
+| Testes unitários / JUnit / Mockito |                                                                                                             |     Material UI     |                 |    Scrum / Kanban    |
+|     REST / GraphQL / Gravitee      |                                                                                                             |      Chakra UI      |                 |                      |
+|                                    |                                                                                                             |    Tailwind CSS     |                 |                      |
+|                                    |                                                                                                             |  Node.js / Express  |                 |                      |
 
 <h2 id="projetos">Projetos mais importantes 📌 </h2>
 
-- [x] [Portfólio](https://github.com/ytallobruno/ytallobruno) (React JS, Tailwind, Javascript, Framer Motion, Lucide React, Prettier)
 - [x] [Serviço Fácil](https://github.com/ytallobruno/ads-2024-e2-proj-servico-facil) (ASP.NET Core, Entity Framework Core, C#, CSS, Javascript, Bootstrap, Git)
 - [x] [Fila Fácil](https://github.com/ytallobruno/ads-2024-e1-proj-fila-facil) (HTML, CSS, Javascript, Bootstrap, Git)
+- [x] [Portfólio](https://github.com/ytallobruno/ytallobruno) (React JS, Tailwind, Javascript, Framer Motion, Lucide React, Prettier)
 - [x] [Contador Regressivo](https://github.com/ytallobruno/contadorRegressivo) (Vite, React, React router dom, CSS, Git)
 - [x] [BattleFRONT](https://github.com/ytallobruno/ProjetoFinalModulo2) (HTML, CSS, Bootstrap, JavaScript, JQuery, consumo de API, Git)
 - [x] [APOD - Astronomy Picture Of the Day](https://github.com/ytallobruno/projetoAPOD) (HTML, CSS, JavaScript, JQuery, consumo de API, Git)
@@ -60,12 +58,12 @@ Twitter/X: [![TWITTER](https://img.shields.io/badge/%40ytallodev-1?style=flat&lo
 <h2 id="status">Meus status no Github 📈 </h2>
 <div align="center">
 
-![trophy](https://github-profile-trophy.vercel.app/?username=ytallobruno&margin-w=5&margin-h=5&no-frame=true)
+<!-- ![trophy](https://github-profile-trophy.vercel.app/?username=ytallobruno&margin-w=5&margin-h=5&no-frame=true) -->
 
 <img height="140em" src="https://github-readme-stats.vercel.app/api?username=ytallobruno&show_icons=true"/>
 <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ytallobruno&layout=compact"/>
 
-![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg)
+<!-- ![Snake animation](https://github.com/ytallobruno/ytallobruno/blob/output/github-contribution-grid-snake.svg) -->
 
 [**🔝 Voltar ao topo 🔝**](#inicio)
 
