@@ -14,7 +14,7 @@
 
 <h2 id="sobre">É um prazer ter você no meu perfil 👋 </h2>
 
-Me chamo Ytallo, tenho 29 anos, sou do Rio de Janeiro e atualmente trabalho como Software Engineer Pleno no BTG Pactual, integrando o time de offshore responsável pela cartela de clientes dos Estados Unidos.
+Me chamo Ytallo, tenho 30 anos, sou do Rio de Janeiro e atualmente trabalho como Software Engineer Pleno no BTG Pactual, integrando o time de offshore responsável pela cartela de clientes dos Estados Unidos.
 
 Anteriormente, fui desenvolvedor back-end na Calindra Tech, onde contribuí para projetos estratégicos como Pix e Open Finance na Ame Digital do grupo B2W e integrei um time responsável por um cliente internacional chamado Stakkd.tech.
 
