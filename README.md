@@ -56,9 +56,9 @@ Twitter/X: [![TWITTER](https://img.shields.io/badge/%40ytallodev-1?style=flat&lo
 
 <h2 id="curiosidades">Alguumas curiosidades sobre mim ☕ </h2>
 
-- Me formei em Administração no ano de 2018 e irei concluir minha segunda graduação em junho de 2026
+- Me formei em Administração no ano de 2018 e em Análise e Desenvolvimento de Sistemas em 2026.
 - Fiz parte da turma 14 WebDev Full Stack na Resilia
-- Gosto de automatizar coisas (criei planilhas para automatizar os processos administrativos no meu antigo trabalho)
+- Gosto de automatizar coisas (criei planilhas para automatizar os processos administrativos em um antigo trabalho)
 - Amo conhecer e aprender coisas novas. Além de ganhar novas experiências, eu quase sempre me divirto com isso
 - Sou apaixonado por danças urbanas (hip hop, dancehall, popping, krump etc)
 
